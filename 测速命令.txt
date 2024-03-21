@@ -1,0 +1,2 @@
+
+CloudflareST.exe -tp 443 -f ip.txt -n 200 -dn 10 -sl 5 -url  [你的测速地址]
